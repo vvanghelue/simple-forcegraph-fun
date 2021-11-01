@@ -1,0 +1,19 @@
+{
+  "name": "graph-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "parcel": "parcel index.html quadtree.html -p 1234"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^1.12.4"
+  },
+  "dependencies": {
+    "fast-inv-sqrt": "^1.0.2",
+    "lib": "^4.1.2",
+    "svg-pan-zoom": "^3.6.1"
+  }
+}
